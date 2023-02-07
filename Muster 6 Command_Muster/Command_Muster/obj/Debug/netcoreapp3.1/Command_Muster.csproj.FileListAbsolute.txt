@@ -1,0 +1,32 @@
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.csprojAssemblyReference.cache
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.AssemblyInfoInputs.cache
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.AssemblyInfo.cs
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.exe
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.deps.json
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.runtimeconfig.json
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.runtimeconfig.dev.json
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.dll
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.pdb
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.dll
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.pdb
+C:\Users\Djordje\source\repos\Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.csproj.CoreCompileInputs.cache
+C:\Users\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.csprojAssemblyReference.cache
+C:\Users\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.AssemblyInfoInputs.cache
+C:\Users\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.AssemblyInfo.cs
+C:\Users\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.csproj.CoreCompileInputs.cache
+C:\Users\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.dll
+C:\Users\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.AssemblyInfoInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.AssemblyInfo.cs
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.csproj.CoreCompileInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.exe
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.deps.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.runtimeconfig.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.runtimeconfig.dev.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\bin\Debug\netcoreapp3.1\Command_Muster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.genruntimeconfig.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.csproj.AssemblyReference.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 6 Command_Muster\Command_Muster\obj\Debug\netcoreapp3.1\Command_Muster.GeneratedMSBuildEditorConfig.editorconfig
